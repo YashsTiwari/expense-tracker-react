@@ -1,9 +1,20 @@
-import './App.css';
+import "./App.css";
+import { Balance } from "./components/Balance";
+import { AddTransaction } from "./components/AddTransaction";
+import { Header } from "./components/Header";
+import { TransactionList } from "./components/TransactionList";
+import { IncomeExpenses } from "./components/incomeExpenses";
 
 function App() {
   return (
     <div>
-      Hello World
+      <Header />
+      <div className="container">
+        <Balance />
+        <IncomeExpenses />
+        <TransactionList />
+        <AddTransaction />
+      </div>
     </div>
   );
 }
