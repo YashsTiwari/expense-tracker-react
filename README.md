@@ -2,6 +2,11 @@
 
 This is a simple expense tracker application build using React.
 
+Implementing the **Context API**.
+
+<img width="416" alt="Screenshot 2023-11-09 at 6 37 40 PM" src="https://github.com/YashsTiwari/expense-tracker-react/assets/129488985/483a346e-a3fb-4beb-9c50-6dd0bc504e9f">
+
+
 ## Available Scripts
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
